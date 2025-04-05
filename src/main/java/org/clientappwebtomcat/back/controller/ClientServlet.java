@@ -18,7 +18,7 @@ import java.io.Writer;
 import java.util.List;
 import java.util.Optional;
 
-//Это будет сервлет. Сервлет - это такой класс, задача которогопринимать
+//Это будет сервлет. Сервлет - это такой класс, задача которого принимать
 // запросы, обрабатывать их и отдавать клиенту ответы
 public class ClientServlet extends HttpServlet {
 
@@ -90,4 +90,5 @@ public class ClientServlet extends HttpServlet {
         }
 
     }
+
 }
